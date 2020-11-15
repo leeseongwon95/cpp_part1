@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_variable()
 { 
   /*
   변수 : 변하는 값이 바뀔 수 있다.
