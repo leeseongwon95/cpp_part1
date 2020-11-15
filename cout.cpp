@@ -5,7 +5,7 @@
 
 using namespace std; // std 생략 가능 
 
-int main()
+int main_cout()
 {
   // c++ 표준 기능 대부분 std 라는 namespace 안에 존재하고 있다.
   // 이름이 겹쳐지는 것을 방지해주기 위해
