@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_operation()
 {
   // 사칙연산자 : + - * / % 
   // 관계연산자 : 값대 값을 연산, 참/거짓으로 반환
