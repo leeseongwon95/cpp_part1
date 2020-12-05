@@ -125,6 +125,7 @@ int main()
 
   cout << "iNumber Address : " << pVoid << endl;
   // *pVoid = 10;
+  
   int *pConvert = (int*)pVoid;
   *pConvert = 10101010;
   *((int*)pVoid) = 9999;
